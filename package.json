@@ -1,21 +1,21 @@
 {
   "name": "prepend-loader",
-  "version": "1.0.0",
-  "description": "Webpack loader to inject anything on top of the stream",
+  "version": "0.0.1",
+  "description": "Webpack loader to inject anything on top of the stream, forked from https://github.com/shprink/prepend-loader to publish it in npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shprink/prepend-loader.git"
+    "url": "https://github.com/jasonzhao3/prepend-loader.git"
   },
-  "author": "shprink <contact@julienrenaux.fr> (http://julienrenaux.fr/)",
+  "author": "Yang Zhao(https://github.com/jasonzhao3)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shprink/prepend-loader/issues"
+    "url": "https://github.com/jasonzhao3/prepend-loader/issues"
   },
-  "homepage": "https://github.com/shprink/prepend-loader",
+  "homepage": "https://github.com/jasonzhao3/prepend-loader",
   "dependencies": {
     "loader-utils": "^0.2.7"
   }
