@@ -1,6 +1,6 @@
 {
   "name": "prepend-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader to inject anything on top of the stream, forked from https://github.com/shprink/prepend-loader to publish it in npm",
   "main": "index.js",
   "scripts": {
